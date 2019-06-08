@@ -1,0 +1,1 @@
+This is my second trial of google-homepage designing. The first I've done some mistaked with repository creating, thus couldn't save my work. I hope now everything is working fine.
